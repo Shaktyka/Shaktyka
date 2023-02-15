@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Elena Petrenko.
 - 👀 I’m interested in programming: DB development etc.
-- 🌱 I’m currently learning bash scripting.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: l.petrencko2011@gmail.com.
